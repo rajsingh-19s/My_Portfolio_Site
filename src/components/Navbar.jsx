@@ -62,7 +62,7 @@ const Navbar = () => {
 
         {/* Desktop Button */}
         <motion.a
-          href='https://drive.google.com/file/d/1q0Y5feZxOZmpistETk8EWSepGZdFaEzb/view?usp=sharing'
+          href='https://drive.google.com/file/d/1m2NUV2ceQXJd44r5aBbI59v8NKwpqCt5/view?usp=sharing'
           target="_blank"
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.95 }}
@@ -104,7 +104,7 @@ const Navbar = () => {
 
         {/* Mobile Button */}
         <motion.a
-           href='https://drive.google.com/file/d/1q0Y5feZxOZmpistETk8EWSepGZdFaEzb/view?usp=sharing'
+           href='https://drive.google.com/file/d/1m2NUV2ceQXJd44r5aBbI59v8NKwpqCt5/view?usp=sharing'
            target="_blank"
           whileHover={{ scale: 1.1 }}
           whileTap={{ scale: 0.95 }}
